@@ -3,12 +3,14 @@ Son dos programas escritos en C (cliente.c y servidor.c) que se comunican median
 
 La manera de compilarlos es:
 
-gcc cliente.c -o cliente
-gcc servidor.c -o servidor
+>gcc cliente.c -o cliente
+
+>gcc servidor.c -o servidor
 
 La manera de correr ambos archivos desde la terminal es:
 
-./servidor&
-./cliente
+>./servidor&
+
+>./cliente
 
 NOTA: ignorar los avisos o warnings durante la compilacion
